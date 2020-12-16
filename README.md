@@ -58,6 +58,6 @@ The __first_version__ subdirectory contains a file named __boston_mpo.html__ whi
 all projects in the Boston MPO region on (approximately) November 25, 2009. It is useful as an example of the HTML parsed by the first version of this
 screen-scraper.
 
-Respectfully submitted,
-B. Krepp, attending metaphysician
+Respectfully submitted,  
+B. Krepp, attending metaphysician  
 16 December 2020 A.D.
