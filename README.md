@@ -12,7 +12,7 @@ This repository consists of two sub-directories:
 * final_version
 
 The contents of these are, respectively, the code for the first working version of the tool (which became known
-as "The PROJIS Screen-scraper", and the final working verison of it. Both version of the tool make use of 
+as "The PROJIS Screen-scraper", and the final working verison of it. Both versions of the tool use 
 __version 3__ of the [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) library.
 BeautifulSoup version 3 will become unsupported after December 31, 2020, so the code in this repository is something
 of a relic. Nonetheless, it is useful as an illustration of how to use BeautifulSoup to programmatically extract
