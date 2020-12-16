@@ -28,9 +28,9 @@ This application was originally developed using BeautifulSoup version 3.1.0.1.
 
 # Other non-idomatic qualities of the code are due to Your Humble Author's great distaste for
 # a programming language that treats white space (indentation, in particular) as a syntactically
-# signifcant element. As someone who has (among other things) designed programming languages
-# professionally, Your Humble Author can say with confidence that this is poor language design,
-# pure and simple (regardless of how much it may facilitate hacking).
+# signifcant element. As someone who has (among other things) contributed to the design of 
+# programming languages professionally, Your Humble Author can say with confidence that this
+# is poor language design, pure and simple (regardless of how much it may facilitate hacking).
 # White space, first and foremost, is DOCUMENTATION. Harrumph!
 #
 # -- BK (charter member, United Federation of Krusty Curmudgeons) 11/24/2009
